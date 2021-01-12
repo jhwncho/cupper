@@ -6,5 +6,5 @@ theme = "cupper"
 publishDir = "docs"
 
 [params]
-  description = "Float design system"
+  description = "Float documentation."
   codePenUser = "Heydon"
