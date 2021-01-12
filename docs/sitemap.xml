@@ -3,11 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jhwncho.github.io/float-doc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jhwncho.github.io/float-doc/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jhwncho.github.io/float-doc/</loc>
+    <loc>https://jhwncho.github.io/float-doc/patterns/elements/color/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/components/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/elements/font/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/principles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/elements/space/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jhwncho.github.io/float-doc/patterns/elements/size/</loc>
   </url>
   
   <url>
