@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Float"
+title = "Fluid"
 baseURL = "https://jhwncho.github.io/float-doc/"
 canonifyURLs = true
 theme = "cupper"
