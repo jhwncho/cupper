@@ -2,9 +2,9 @@
 title: "Color"
 ---
 
-{{<figure caption="Float Color Palette">}}
+{{<figure caption="Float Brand Colors">}}
 
-{{% colors "#111111, #cccccc, #ffffff" %}}
+{{% colors "#30343F, #FAFAFF" %}}
 
 {{</figure>}}
 
@@ -12,7 +12,12 @@ title: "Color"
 | :-------: | :----: |
 |  Primary  | 30343F |
 | Secondary | 30343F |
-| Tertiary  | FAFAFF |
 |  Success  | 09BC8A |
 |  Warning  | FCE762 |
 |   Error   | BB4430 |
+
+{{<figure caption="Float Color Palette">}}
+
+{{% colors "#09BC8A, #FCE762, #BB4430" %}}
+
+{{</figure>}}
