@@ -21,7 +21,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/font/</guid>
-      <description></description>
+      <description>Headings: //todo: heading (Size, leading, typefaces, etc.)
+Body Copy: //todo: body copy
+Monospace: //todo: monspace code font</description>
     </item>
     
     <item>
@@ -30,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/size/</guid>
-      <description></description>
+      <description>//todo: Do 4 sizes</description>
     </item>
     
     <item>
@@ -39,7 +41,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/space/</guid>
-      <description></description>
+      <description>// todo: Do 4 spaces.</description>
     </item>
     
   </channel>
