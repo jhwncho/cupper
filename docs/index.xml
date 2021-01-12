@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/color/</guid>
-      <description>   Name Color     Primary #30343F   Secondary #30343F   Tertiary #FAFAFF   Success #09BC8A   Warning #FCE762   Error #BB4430     &amp;lt;li style=&amp;quot;background-color: #30343F;&amp;quot;&amp;gt; &amp;lt;span&amp;gt;#30343F&amp;lt;/span&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li style=&amp;quot;background-color: #FAFAFF;&amp;quot;&amp;gt; &amp;lt;span&amp;gt;#FAFAFF&amp;lt;/span&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li style=&amp;quot;background-color: #BB4430;&amp;quot;&amp;gt; &amp;lt;span&amp;gt;#BB4430&amp;lt;/span&amp;gt; &amp;lt;/li&amp;gt;  </description>
+      <description> #111111  #CCCCCC  #FFFFFF    Float Color Palette      Name Color     Primary 30343F   Secondary 30343F   Tertiary FAFAFF   Success 09BC8A   Warning FCE762   Error BB4430    </description>
     </item>
     
     <item>
@@ -21,7 +21,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/font/</guid>
-      <description>   Name Color     Primary #30343F   Secondary #30343F   Tertiary #FAFAFF   Success #09BC8A   Warning #FCE762   Error #BB4430    </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size</title>
+      <link>https://jhwncho.github.io/float-doc/patterns/elements/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhwncho.github.io/float-doc/patterns/elements/size/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -30,16 +39,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/space/</guid>
-      <description>   Name Color     Primary #30343F   Secondary #30343F   Tertiary #FAFAFF   Success #09BC8A   Warning #FCE762   Error #BB4430    </description>
-    </item>
-    
-    <item>
-      <title>Spacing</title>
-      <link>https://jhwncho.github.io/float-doc/patterns/elements/size/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jhwncho.github.io/float-doc/patterns/elements/size/</guid>
-      <description>   Name Color     Primary #30343F   Secondary #30343F   Tertiary #FAFAFF   Success #09BC8A   Warning #FCE762   Error #BB4430    </description>
+      <description></description>
     </item>
     
   </channel>

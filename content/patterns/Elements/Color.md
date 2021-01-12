@@ -2,18 +2,17 @@
 title: "Color"
 ---
 
+{{<figure caption="Float Color Palette">}}
 
+{{% colors "#111111, #cccccc, #ffffff" %}}
 
-|   Name    |  Color  |
-| :-------: | :-----: |
-|  Primary  | #30343F |
-| Secondary | #30343F |
-| Tertiary  | #FAFAFF |
-|  Success  | #09BC8A |
-|  Warning  | #FCE762 |
-|   Error   | #BB4430 |
+{{</figure>}}
 
-
-
-{{% colors "#30343F, #FAFAFF, #BB4430" %}}
-
+|   Name    | Color  |
+| :-------: | :----: |
+|  Primary  | 30343F |
+| Secondary | 30343F |
+| Tertiary  | FAFAFF |
+|  Success  | 09BC8A |
+|  Warning  | FCE762 |
+|   Error   | BB4430 |
