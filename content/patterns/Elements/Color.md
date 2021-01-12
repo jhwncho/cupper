@@ -18,6 +18,6 @@ title: "Color"
 
 {{<figure caption="Float Color Palette">}}
 
-{{% colors "#09BC8A, #FCE762, #BB4430" %}}
+{{% colors "#8ECAE6, #219EBC, #023047, #FFB703, #FB8500" %}}
 
 {{</figure>}}
