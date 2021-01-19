@@ -7,12 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jhwncho.github.io/float-doc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://jhwncho.github.io/float-doc/patterns/storybook-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhwncho.github.io/float-doc/patterns/storybook-tutorial/</guid>
+      <description>Storybook Tutorial
+npx create-react-app float-app cd float-app npx -p @storybook/cli sb init In the root folder of the project add a new file called .env with the following:
+SKIP_PREFLIGHT_CHECK=true check that the various environments of our application are working properly:
+# Run the test runner (Jest) in a terminal: yarn test --watchAll # Start the component explorer on port 6006: yarn storybook # Run the frontend app proper on port 3000: yarn start Edit style in LESS files.</description>
+    </item>
+    
+    <item>
       <title>Color</title>
       <link>https://jhwncho.github.io/float-doc/patterns/elements/color/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/color/</guid>
-      <description> #8ECAE6  #219EBC  #023047  #FFB703  #FB8500    Float Color Palette      Name Color     Primary #023047   Secondary #FB8500   Tertiary #219EBC   Warning #FCE762   Error #BB4430    </description>
+      <description> #33CCCC    Float Color   #33CCCC  #00B7BE  #009294    Primary Color Palette (Brand, 500, 700)   #000000  #FFFFFF  #CCCC33  #FFCC00  #FF6666    Dark, Light, Success, Warning, Error      Colors Hex     Primary 33CCCC   Primary 500 00B7BE   Primary 700 009294   Warning FFCC00   Error FF6666   Dark 000000   Light FFFFFF        </description>
     </item>
     
     <item>
@@ -21,7 +33,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/font/</guid>
-      <description>Headings: //todo: heading (Size, leading, typefaces, etc.)
+      <description>Font Ubuntu
+Headings: font-family: Ubuntu; font-size: 16px; color: #000000;
+font-family: Ubuntu; font-size: 12px; color: #000000;
+font-family: Lato-Regular; font-size: 9px; color: #000000;
+font-family: Ubuntu-Bold; font-size: 40px; color: #000000;
+font-family: Ubuntu-Medium; font-size: 32px; color: #000000;
+font-family: Ubuntu-Medium; font-size: 24px; color: #000000;
+font-family: Ubuntu-MediumItalic; font-size: 16px; color: #000000;
+font-family: Ubuntu-Medium; font-size: 16px; color: #000000;
 Body Copy: //todo: body copy
 Monospace: //todo: monspace code font</description>
     </item>
@@ -32,7 +52,11 @@ Monospace: //todo: monspace code font</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/size/</guid>
-      <description>//todo: Do 4 sizes</description>
+      <description>//todo: Do 4 sizes
+8px
+Default Font Size: 16px
+24px
+40px</description>
     </item>
     
     <item>
@@ -41,7 +65,8 @@ Monospace: //todo: monspace code font</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/space/</guid>
-      <description>// todo: Do 4 spaces.</description>
+      <description>// todo: Do 4 spaces.
+Breakpoints          Small 0px-599px   Medium 600px-899px   Large 900px-1199px   Extra large 1200px+    </description>
     </item>
     
   </channel>

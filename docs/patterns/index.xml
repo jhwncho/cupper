@@ -6,5 +6,17 @@
     <description>Recent content in Patterns on Fluid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jhwncho.github.io/float-doc/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jhwncho.github.io/float-doc/patterns/storybook-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhwncho.github.io/float-doc/patterns/storybook-tutorial/</guid>
+      <description>Storybook Tutorial
+npx create-react-app float-app cd float-app npx -p @storybook/cli sb init In the root folder of the project add a new file called .env with the following:
+SKIP_PREFLIGHT_CHECK=true check that the various environments of our application are working properly:
+# Run the test runner (Jest) in a terminal: yarn test --watchAll # Start the component explorer on port 6006: yarn storybook # Run the frontend app proper on port 3000: yarn start Edit style in LESS files.</description>
+    </item>
+    
   </channel>
 </rss>
