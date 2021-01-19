@@ -4,48 +4,11 @@ title: "Font"
 
 ## Font
 
-Ubuntu
+Font Style -- Ubuntu & Ubuntu Monospace
+
+![Typography](/images/Typescale.png)
 
 ## Headings:
-
-font-family: Ubuntu;
-font-size: 16px;
-color: #000000;
-
-
-font-family: Ubuntu;
-font-size: 12px;
-color: #000000;
-
-
-font-family: Lato-Regular;
-font-size: 9px;
-color: #000000;
-
-
-font-family: Ubuntu-Bold;
-font-size: 40px;
-color: #000000;
-
-
-font-family: Ubuntu-Medium;
-font-size: 32px;
-color: #000000;
-
-
-font-family: Ubuntu-Medium;
-font-size: 24px;
-color: #000000;
-
-
-font-family: Ubuntu-MediumItalic;
-font-size: 16px;
-color: #000000;
-
-
-font-family: Ubuntu-Medium;
-font-size: 16px;
-color: #000000;
 
 
 

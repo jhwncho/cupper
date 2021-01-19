@@ -24,7 +24,7 @@ SKIP_PREFLIGHT_CHECK=true check that the various environments of our application
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/color/</guid>
-      <description> #33CCCC    Float Color   #33CCCC  #00B7BE  #009294    Primary Color Palette (Brand, 500, 700)   #000000  #FFFFFF  #CCCC33  #FFCC00  #FF6666    Dark, Light, Success, Warning, Error      Colors Hex     Primary 33CCCC   Primary 500 00B7BE   Primary 700 009294   Warning FFCC00   Error FF6666   Dark 000000   Light FFFFFF        </description>
+      <description>#33CCCC    Float Color   #33CCCC  #00B7BE  #009294    Primary Color Palette (Brand, 500, 700)   #000000  #FFFFFF  #CCCC33  #FFCC00  #FF6666    Dark, Light, Success, Warning, Error       Colors  Hex     1 Primary .fill-primary #33CCCC   2 Primary 500 .fill-primary-500 #00B7BE   3 Primary 700 .</description>
     </item>
     
     <item>
@@ -33,16 +33,8 @@ SKIP_PREFLIGHT_CHECK=true check that the various environments of our application
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/font/</guid>
-      <description>Font Ubuntu
-Headings: font-family: Ubuntu; font-size: 16px; color: #000000;
-font-family: Ubuntu; font-size: 12px; color: #000000;
-font-family: Lato-Regular; font-size: 9px; color: #000000;
-font-family: Ubuntu-Bold; font-size: 40px; color: #000000;
-font-family: Ubuntu-Medium; font-size: 32px; color: #000000;
-font-family: Ubuntu-Medium; font-size: 24px; color: #000000;
-font-family: Ubuntu-MediumItalic; font-size: 16px; color: #000000;
-font-family: Ubuntu-Medium; font-size: 16px; color: #000000;
-Body Copy: //todo: body copy
+      <description>Font Font Style &amp;ndash; Ubuntu &amp;amp; Ubuntu Monospace
+Headings: Body Copy: //todo: body copy
 Monospace: //todo: monspace code font</description>
     </item>
     
