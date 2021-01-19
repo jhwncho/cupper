@@ -17,9 +17,9 @@ title: "Color"
 
 {{</figure>}}
 
-{{<figure caption="Dark, Light, Success, Warning, Error">}}
+{{<figure caption="Light, Lighter Gray, Light Gray, Gray, Darker Gray, Dark">}}
 
-{{% colors "#000000, #ffffff, #cccc33, #ffcc00, #ff6666" %}}
+{{% colors "#FFFFFF, #F4F4F4, #D7D7D7, #AAAAAA, #222222, #000000" %}}
 
 {{</figure>}}
 
@@ -27,7 +27,7 @@ title: "Color"
 
 
 
-|      |       Colors |                    |                                        Hex |
+| #    |       Colors | SASS Variable      |                                        Hex |
 | ---- | -----------: | ------------------ | -----------------------------------------: |
 | 1    |      Primary | .fill-primary      | <span style='color:#33CCCC'>#33CCCC</span> |
 | 2    |  Primary 500 | .fill-primary-500  | <span style='color:#00B7BE'>#00B7BE</span> |
@@ -41,3 +41,9 @@ title: "Color"
 | 10   |   Light Gray | .fill-gray-light   | <span style='color:#D7D7D7'>#D7D7D7</span> |
 | 11   | Lighter Gray | .fill-gray-lighter | <span style='color:#F4F4F4'>#F4F4F4</span> |
 | 12   |  Darker Gray | .fill-gray-darker  |                                    #222222 |
+
+{{<figure caption="Fluid Palette">}}
+
+{{% colors "#33CCCC, #33CCCC, #009294, #000000, #AAAAAA, #D7D7D7, #f4f4f4, #ffffff, #34B312, #FFCC00, #D71F10" %}}
+
+{{</figure>}}

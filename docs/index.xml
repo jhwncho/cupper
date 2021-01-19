@@ -24,7 +24,7 @@ SKIP_PREFLIGHT_CHECK=true check that the various environments of our application
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/color/</guid>
-      <description>#33CCCC    Float Color   #33CCCC  #00B7BE  #009294    Primary Color Palette (Brand, 500, 700)   #000000  #FFFFFF  #CCCC33  #FFCC00  #FF6666    Dark, Light, Success, Warning, Error       Colors  Hex     1 Primary .fill-primary #33CCCC   2 Primary 500 .fill-primary-500 #00B7BE   3 Primary 700 .</description>
+      <description>#33CCCC    Float Color   #33CCCC  #00B7BE  #009294    Primary Color Palette (Brand, 500, 700)   #FFFFFF  #F4F4F4  #D7D7D7  #AAAAAA  #222222  #000000    Light, Lighter Gray, Light Gray, Gray, Darker Gray, Dark      # Colors SASS Variable Hex     1 Primary .fill-primary #33CCCC   2 Primary 500 .</description>
     </item>
     
     <item>
@@ -33,9 +33,7 @@ SKIP_PREFLIGHT_CHECK=true check that the various environments of our application
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhwncho.github.io/float-doc/patterns/elements/font/</guid>
-      <description>Font Font Style &amp;ndash; Ubuntu &amp;amp; Ubuntu Monospace
-Headings: Body Copy: //todo: body copy
-Monospace: //todo: monspace code font</description>
+      <description>Font    Type Font Weight Size Letter Spacing     Headline 1 Style Ubuntu Light 96 -1.5px   Headline 2 Style Ubuntu Light 60 -0.5px   Headline 3 Style Ubuntu Regular 48 0px   Headline 4 Style Ubuntu Regular 34 0.25px   Headline 5 Style Ubuntu Regular 24 0.15px   Headline 6 Style Ubuntu Medium 20 0px   Subtitle 1 Style Ubuntu Regular 16 0.</description>
     </item>
     
     <item>
